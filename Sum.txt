@@ -1,0 +1,8 @@
+04-33
+lệnh format; lệnh input; dùng list, tuple và set; khi dùng set có dùng lệnh difference, union và intersection; Có dùng toán tử so sánh; Mệnh đề if; The 'in' keyword trong mệnh đề if; Vòng lặp while; List comprehensions; Dictionaries; Destructuring variables; Functions in Python; Function arguments and parameters; Default parameter values; Functions returning values; Lambda functions in Python; Dictionary comprehensions; Unpacking arguments; Unpacking keyword arguments
+
+34-41
+Object-Oriented Programming in Python; Magic methods_ __str__ and __repr__; @classmethod and @staticmethod; Class inheritance; Class composition; Type hinting in Python 3.5+
+
+42-52
+Imports in Python, Relative imports in Python, Custom error classes, First-class functions, Simple decorators in Python, The 'at' syntax for decorators, Decorating functions with parameters, Decorators with parameters, và Mutability in Python.
